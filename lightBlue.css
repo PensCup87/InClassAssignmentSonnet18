@@ -1,0 +1,14 @@
+﻿body {
+     font-family: 'Nosifer', cursive;
+    background-color:turquoise
+
+}
+
+li{
+    margin-left: 350px;
+    
+}
+
+ul{
+    list-style-type: none;
+}
